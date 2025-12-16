@@ -1,0 +1,9 @@
+flask
+flask-cors
+torch
+openai-whisper
+sentence-transformers
+ytmusicapi
+pandas
+numpy
+ffmpeg-python
